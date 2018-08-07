@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{332:function(t,e){t.exports={data:{allMarkdownRemark:{edges:[{node:{excerpt:"WOW! You have reached the last post! I hope you enjoyed looking at the various projects that I have worked on in the past.",id:"C:/Users/Tianyang/Documents/GitHub/tianyanggu.github.io/src/pages/06-08-2018-first-post-gatsby-website/index.md absPath of file >>> MarkdownRemark",frontmatter:{title:"First Gatsby Post",date:"August 06, 2018",path:"/first-post"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-44f9dad8050bc0d0db98.js.map
