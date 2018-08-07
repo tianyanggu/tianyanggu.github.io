@@ -23,7 +23,7 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          Tianyang Gu
+          Tianyang (Tyler) Gu
         </Link>
       </h1>
     </div>
