@@ -1,7 +1,6 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Helmet from "react-helmet";
-import Img from "gatsby-image";
 
 import '../styles/blog-listing.css';
 import '../styles/general.css';
@@ -16,7 +15,6 @@ export default function Index({ data }) {
           .map(({ node: post }) => {
             return (
               <div className="blog-post-preview" key={post.id}>
-                <Img sizes={post.frontmatter.image.childImageSharp.sizes} />
                 <img src={post.frontmatter.image} />
                 <h1>
                   <Link to={post.frontmatter.path}>{post.frontmatter.title}</Link>
@@ -42,14 +40,7 @@ export const pageQuery = graphql`
             title
             date(formatString: "MMMM DD, YYYY")
             path
-            image {
-              publicURL
-              childImageSharp {
-                sizes(maxWidth: 1240 ) {
-                  srcSet
-                }
-              }
-            }
+            image
           }
         }
       }

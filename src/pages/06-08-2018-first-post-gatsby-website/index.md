@@ -2,10 +2,10 @@
 path: "/first-post"
 date: "2018-08-06T17:12:33.962Z"
 title: "First Gatsby Post"
-image: "./ChickenOrTheEgg.jpg"
+image: "/tianyanggu.github.io/static/ChickenOrTheEgg.jpg"
 ---
 
-![](static/ChickenOrTheEgg.jpg)
+![](/tianyanggu.github.io/static/ChickenOrTheEgg.jpg)
 
 WOW! You have reached the last post!
 

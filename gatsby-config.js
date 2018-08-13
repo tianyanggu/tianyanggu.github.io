@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Tianyang (Tyler) Gu',
   },
   plugins: [
    'gatsby-plugin-react-helmet',
@@ -13,14 +13,5 @@ module.exports = {
       },
     },
     `gatsby-transformer-remark`,
-    `gatsby-remark-copy-linked-files`,
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
-    {
-      resolve: `gatsby-remark-images`,
-      options: {
-        maxWidth: 1080,
-      },
-    },
   ],
 }
