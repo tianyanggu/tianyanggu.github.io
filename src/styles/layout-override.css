@@ -6,11 +6,6 @@ html {
     height: 100%;
 }
 
-body {
-    height: 100%;
-    border: 5px solid #ffdb3a;
-}
-
 h1 {
     font-size: 1.5rem;
     line-height: 0.5rem;

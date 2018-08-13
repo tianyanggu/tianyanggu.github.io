@@ -26,6 +26,14 @@ return graphql(`{
             date
             path
             title
+            image {
+              publicURL
+              childImageSharp {
+                sizes(maxWidth: 1240 ) {
+                  srcSet
+                }
+              }
+            }
           }
         }
       }
