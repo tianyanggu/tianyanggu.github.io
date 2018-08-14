@@ -5,6 +5,12 @@ div.blog-post-preview {
     margin-bottom: 1rem;
 }
 
+div.header-image {
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}
+
 h1 > * {
     font-size: 1.2rem;
     text-decoration-line: none;
