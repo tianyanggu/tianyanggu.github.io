@@ -25,6 +25,8 @@ const Header = () => (
         >
           Tianyang (Tyler) Gu
         </Link>
+        <br/>
+        <h6>A Software Developer from Rainy Vancouver, Canada</h6>
       </h1>
     </div>
   </div>

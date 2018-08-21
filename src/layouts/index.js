@@ -92,12 +92,7 @@ const TemplateWrapper = ({ children, data }) => (
 
 <div style={{ flex: 1 }}>
                 <Sidebar
-                  title="Test Title"
-                  description="Test Sidebar1"
-                />
-                <Sidebar
-                  title="Test Title2"
-                  description="Test Sidebar2"
+                  title="Contact"
                 />
               </div>
             </div>
