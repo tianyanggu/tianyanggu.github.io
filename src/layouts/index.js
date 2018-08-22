@@ -69,7 +69,7 @@ const TemplateWrapper = ({ children, data }) => (
                 flexDirection: "row",
                 justifyContent: "space-between",
                 height: "100%",
-                padding: "25px"
+                padding: "10px"
               }}
             >
               <div style={{ flex: 1 }}>{children()}</div>
@@ -83,10 +83,10 @@ const TemplateWrapper = ({ children, data }) => (
                 flexDirection: "row",
                 justifyContent: "space-between",
                 height: "100%",
-                padding: "25px"
+                padding: "10px"
               }}
             >
-              <div style={{ flex: 2.5, paddingRight: "30px" }}>
+              <div style={{ flex: 2.5 }}>
                 {children()}
               </div>
 

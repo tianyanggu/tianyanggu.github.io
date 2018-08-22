@@ -8,7 +8,7 @@ import '../styles/general.css';
 export default function Index({ data }) {
   const { edges: posts } = data.allMarkdownRemark;
   return (
-    <div className = "w3-card-4 w3-margin w3-white blog-width">
+    <div className="w3-card-4 w3-margin w3-white blog-width">
       {posts
         .filter(post => post.node.frontmatter.title.length > 0)
         .map(({ node: post }) => {
