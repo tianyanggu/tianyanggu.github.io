@@ -7,10 +7,10 @@ const Sidebar = (props) => (
   <div
     style={{
       border: '2px solid #e6e6e6',
-      maxWidth: 900,
+      maxWidth: 125,
       padding: '0.5rem',
       marginBottom: '25px',
-      margin: '16px'
+      margin: '16px',
     }}
   >
     <center><h4><strong>{props.title}</strong></h4>
@@ -19,7 +19,7 @@ const Sidebar = (props) => (
       </div>
       <br/>
       <div className="dropdown">
-        <i style={{ fontSize: "40px" }} className="dropdown fas fa-phone"></i>
+        <i style={{ fontSize: "40px",  marginBottom: '16px' }} className="dropdown fas fa-phone"></i>
         <div className="dropdown-content"><b>778-874-2331</b></div>
       </div>
     </center>

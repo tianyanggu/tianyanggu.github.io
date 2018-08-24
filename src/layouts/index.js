@@ -90,7 +90,7 @@ const TemplateWrapper = ({ children, data }) => (
                 {children()}
               </div>
 
-<div style={{ flex: 1 }}>
+<div style={{ flex: 0.5 }}>
                 <Sidebar
                   title="Contact"
                 />
