@@ -5,7 +5,7 @@ import Helmet from 'react-helmet'
 import Media from 'react-media'
 
 import Header from '../components/header'
-import Sidebar from '../components/sidebar'
+import Message from '../components/messagebox'
 import './index.css'
 import '../styles/layout-override.css'
 
@@ -36,9 +36,11 @@ Layout.propTypes = {
   children: PropTypes.func,
 }
 
-//export default Layout
-
-const TemplateWrapper = ({ children, data }) => (
+export default function TemplateWrapper ({location, children, data }) {
+	const { siteUrl } = data.site.siteMetadata;
+	const fullUrl = `${siteUrl}${location.pathname}`;
+	
+	return (
   <div>
     <Helmet
       title={data.site.siteMetadata.title}
@@ -89,27 +91,21 @@ const TemplateWrapper = ({ children, data }) => (
               <div style={{ flex: 2.5 }}>
                 {children()}
               </div>
-
-<div style={{ flex: 0.5 }}>
-                <Sidebar
-                  title="Contact"
-                />
-              </div>
             </div>
           )
         }
       </Media>
+      <Message location={fullUrl}></Message>
     </div>
   </div>
-);
-
-export default TemplateWrapper
+)};
 
 export const query = graphql`
   query SiteTitleQuery {
     site {
       siteMetadata {
         title
+        siteUrl
       }
     }
   }

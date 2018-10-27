@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Tianyang (Tyler) Gu',
+    siteUrl: 'https://tianyanggu.github.io',
   },
   plugins: [
    'gatsby-plugin-react-helmet',
