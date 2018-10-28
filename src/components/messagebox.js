@@ -27,9 +27,8 @@ class Message extends Component {
                     <div className="message-us-container">
                         <div className="message-us-body" onClick={this.handleClick}>
                             <div className="message-us-title">
-                                Contact Info<i className="message-icon far fa-envelope"></i>
+                                Contact Info<i className="message-icon far fa-window-maximize"></i>
                             </div>
-                            
                         </div>
                     </div>
                 </CSSTransition>
@@ -47,10 +46,10 @@ class Message extends Component {
                             <div style={{ padding: "2px"}}>
                                 Messages are sent to <a href="mailto:tyler.y.gu@gmail.com" target="_top">tyler.y.gu@gmail.com</a>.
                             </div>
-                            <form action="https://www.enformed.io/wqmxhlyx" method="POST" id="message">
+                            <form action="https://www.enformed.io/zoiau2oo" method="POST" id="message">
                                 <div className="form-group">
                                     <label>Name: (Optional)</label>
-                                    <input name="name" type="text" className="form-control" required/>
+                                    <input name="name" type="text" className="form-control"/>
                                 </div>
                                 <div className="form-group">
                                     <label>Email: <span className="required-input">*</span></label>
@@ -58,7 +57,7 @@ class Message extends Component {
                                 </div>
                                 <div className="form-group">
                                     <label>Message: <span className="required-input">*</span></label>
-                                    <textarea name="message" type="text" className="form-control" rows="2" maxLength="500" required/>
+                                    <textarea name="message" type="text" className="form-control" rows="5" maxLength="500" required/>
                                 </div>
                                 <input type="hidden" name="*redirect" value={this.props.location} />
                                 <input type="hidden" name="*honeypot" />

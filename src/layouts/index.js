@@ -88,7 +88,7 @@ export default function TemplateWrapper ({location, children, data }) {
                 padding: "10px"
               }}
             >
-              <div style={{ flex: 2.5 }}>
+              <div>
                 {children()}
               </div>
             </div>
