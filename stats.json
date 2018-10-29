@@ -12,6 +12,10 @@
       "path---first-post-a3fee67f2df00c686d0e.js",
       "path---first-post-a3fee67f2df00c686d0e.js.map"
     ],
+    "path---strood": [
+      "path---strood-801eb3d12f58b8c86a9d.js",
+      "path---strood-801eb3d12f58b8c86a9d.js.map"
+    ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-297b3a130b3aa136a449.js",
       "component---src-templates-blog-post-js-297b3a130b3aa136a449.js.map"
@@ -25,8 +29,8 @@
       "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
-      "path---index-c2cf71239cfc581cc83c.js",
-      "path---index-c2cf71239cfc581cc83c.js.map"
+      "path---index-57242fde89a524be6cfd.js",
+      "path---index-57242fde89a524be6cfd.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-58c8d581e1f08025ee2b.js",
@@ -47,9 +51,9 @@
       "component---src-pages-page-2-js-65f0147ecb0dc4da2a2b.js.map"
     ],
     "app": [
-      "app-b24e5bdfb08519d4ac9e.js",
+      "app-ca7c1fd6dff451eed504.js",
       "build-js-styles.css",
-      "app-b24e5bdfb08519d4ac9e.js.map",
+      "app-ca7c1fd6dff451eed504.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
