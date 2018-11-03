@@ -7,8 +7,6 @@ image: "/static/DatAsteroid.jpg"
 
 ![](/static/DatAsteroid.jpg)
 
-![](/static/DatAsteroid2.jpg)
-
 Game Jam Vancouver 2015 - Dat Asteroid!
 
 **About:** 
@@ -21,9 +19,11 @@ The team photo and game can be found at our Global Game Jam 2015 page: [Dat Aste
 Try playing the game with a friend!
 
 **Team:**  
-The team was made up of 7 people (6 developers and 1 music producer). 
+The team was made up of 8 people (6 developers, 1 sfx artist, and 1 music producer). 
 It was a very fun event and I met over half of my team members at the event.
 
 **Work:**  
 The game was written using C# and Unity 3D Engine.
 I worked on the audio mechanics, audio interactions, and some UI functionalities.
+
+![](/static/DatAsteroid2.jpg)
