@@ -1,6 +1,7 @@
 ---
 path: "/DatAsteroid"
-date: "2018-10-30T17:12:33.962Z"
+date: "2015-01-29T17:12:33.962Z"
+blogdate: "2018-10-30T17:12:33.962Z"
 title: "Dat Asteroid"
 image: "/static/DatAsteroid.jpg"
 ---

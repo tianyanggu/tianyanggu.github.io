@@ -1,6 +1,7 @@
 ---
 path: "/first-post"
 date: "2018-08-06T17:12:33.962Z"
+blogdate: "2018-08-06T17:12:33.962Z"
 title: "First Gatsby Post"
 image: "/static/ChickenOrTheEgg.jpg"
 ---

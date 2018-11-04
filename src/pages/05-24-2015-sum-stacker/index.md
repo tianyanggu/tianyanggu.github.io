@@ -1,6 +1,7 @@
 ---
 path: "/SumStacker"
-date: "2018-11-03T17:12:33.962Z"
+date: "2015-05-24T17:12:33.962Z"
+blogdate: "2018-11-03T17:12:33.962Z"
 title: "Sum Stacker"
 image: "/static/SumStacker.jpg"
 ---

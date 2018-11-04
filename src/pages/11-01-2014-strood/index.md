@@ -1,6 +1,7 @@
 ---
 path: "/Strood"
-date: "2018-10-28T17:12:33.962Z"
+date: "2018-11-01T17:12:33.962Z"
+blogdate: "2018-10-28T17:12:33.962Z"
 title: "Strood"
 image: "/static/Strood.jpg"
 ---
