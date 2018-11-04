@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{114:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Tianyang (Tyler) Gu",siteUrl:"https://tianyanggu.github.io"}}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{113:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Tianyang (Tyler) Gu",siteUrl:"https://tianyanggu.github.io"}}},layoutContext:{}}}});
 //# sourceMappingURL=path----b7e2048751d0b4d24ebc.js.map

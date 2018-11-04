@@ -1,24 +1,24 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-55a9c782ebaf3c8cefec.js",
-      "component---src-pages-index-js-55a9c782ebaf3c8cefec.js.map"
+      "component---src-pages-index-js-e9c03315c73760991978.js",
+      "component---src-pages-index-js-e9c03315c73760991978.js.map"
     ],
     "path---": [
       "path----b7e2048751d0b4d24ebc.js",
       "path----b7e2048751d0b4d24ebc.js.map"
     ],
     "path---sum-stacker": [
-      "path---sum-stacker-cfb73eee9601b1f947bf.js",
-      "path---sum-stacker-cfb73eee9601b1f947bf.js.map"
+      "path---sum-stacker-c9321de4806e7ed4f43d.js",
+      "path---sum-stacker-c9321de4806e7ed4f43d.js.map"
     ],
     "path---first-post": [
       "path---first-post-a3fee67f2df00c686d0e.js",
       "path---first-post-a3fee67f2df00c686d0e.js.map"
     ],
     "path---strood": [
-      "path---strood-801eb3d12f58b8c86a9d.js",
-      "path---strood-801eb3d12f58b8c86a9d.js.map"
+      "path---strood-83414b0799aa90dbcf0e.js",
+      "path---strood-83414b0799aa90dbcf0e.js.map"
     ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-297b3a130b3aa136a449.js",
@@ -28,13 +28,9 @@
       "component---src-layouts-index-js-0377cfc5282c339b8472.js",
       "component---src-layouts-index-js-0377cfc5282c339b8472.js.map"
     ],
-    "path---page-2": [
-      "path---page-2-a0e39f21c11f6a62c5ab.js",
-      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
-    ],
     "path---index": [
-      "path---index-009c4a593d9b11f67001.js",
-      "path---index-009c4a593d9b11f67001.js.map"
+      "path---index-30c7c43908782f179ac5.js",
+      "path---index-30c7c43908782f179ac5.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-58c8d581e1f08025ee2b.js",
@@ -51,17 +47,13 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---source-game": [
-      "path---source-game-3c68ad0e31190f836f48.js",
-      "path---source-game-3c68ad0e31190f836f48.js.map"
-    ],
-    "component---src-pages-page-2-js": [
-      "component---src-pages-page-2-js-65f0147ecb0dc4da2a2b.js",
-      "component---src-pages-page-2-js-65f0147ecb0dc4da2a2b.js.map"
+      "path---source-game-39eaead42e937f94e886.js",
+      "path---source-game-39eaead42e937f94e886.js.map"
     ],
     "app": [
-      "app-465f2989b035ebc840ee.js",
+      "app-8066fcef4e37b2136820.js",
       "build-js-styles.css",
-      "app-465f2989b035ebc840ee.js.map",
+      "app-8066fcef4e37b2136820.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
@@ -69,8 +61,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---dat-asteroid": [
-      "path---dat-asteroid-8783e874ddfdc68345d7.js",
-      "path---dat-asteroid-8783e874ddfdc68345d7.js.map"
+      "path---dat-asteroid-6eb9defb299671f1a717.js",
+      "path---dat-asteroid-6eb9defb299671f1a717.js.map"
     ]
   }
 }
