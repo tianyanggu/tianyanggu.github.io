@@ -13,8 +13,8 @@
       "path---sum-stacker-c9321de4806e7ed4f43d.js.map"
     ],
     "path---first-post": [
-      "path---first-post-a3fee67f2df00c686d0e.js",
-      "path---first-post-a3fee67f2df00c686d0e.js.map"
+      "path---first-post-73d97cca9faaf2b28924.js",
+      "path---first-post-73d97cca9faaf2b28924.js.map"
     ],
     "path---strood": [
       "path---strood-83414b0799aa90dbcf0e.js",
@@ -24,13 +24,17 @@
       "component---src-templates-blog-post-js-297b3a130b3aa136a449.js",
       "component---src-templates-blog-post-js-297b3a130b3aa136a449.js.map"
     ],
+    "path---blank-space-games": [
+      "path---blank-space-games-da23c24c694d3b36f65b.js",
+      "path---blank-space-games-da23c24c694d3b36f65b.js.map"
+    ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-0377cfc5282c339b8472.js",
       "component---src-layouts-index-js-0377cfc5282c339b8472.js.map"
     ],
     "path---index": [
-      "path---index-30c7c43908782f179ac5.js",
-      "path---index-30c7c43908782f179ac5.js.map"
+      "path---index-8335fd38d9e2c3d19d2b.js",
+      "path---index-8335fd38d9e2c3d19d2b.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-58c8d581e1f08025ee2b.js",
@@ -51,9 +55,9 @@
       "path---source-game-39eaead42e937f94e886.js.map"
     ],
     "app": [
-      "app-8066fcef4e37b2136820.js",
+      "app-8ff4981f7407e4d3b37c.js",
       "build-js-styles.css",
-      "app-8066fcef4e37b2136820.js.map",
+      "app-8ff4981f7407e4d3b37c.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [

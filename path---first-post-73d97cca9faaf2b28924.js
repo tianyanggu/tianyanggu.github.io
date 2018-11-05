@@ -1,0 +1,2 @@
+webpackJsonp([98749194253172],{345:function(t,e){t.exports={data:{markdownRemark:{html:'<p><img src="/static/ChickenOrTheEgg.jpg"></p>\n<p>WOW! You have reached the last post!</p>\n<p>I hope you enjoyed looking at the various projects that I have worked on in the past.</p>\n<p>This github website was made using Gatsby and React.</p>',frontmatter:{date:"August 06, 2018",path:"/first-post",title:"First Gatsby Post",image:"/static/ChickenOrTheEgg.jpg"}}},pathContext:{}}}});
+//# sourceMappingURL=path---first-post-73d97cca9faaf2b28924.js.map
