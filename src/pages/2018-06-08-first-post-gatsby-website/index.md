@@ -11,3 +11,5 @@ image: "/static/ChickenOrTheEgg.jpg"
 WOW! You have reached the last post!
 
 I hope you enjoyed looking at the various projects that I have worked on in the past.
+
+This github website was made using Gatsby and React.
