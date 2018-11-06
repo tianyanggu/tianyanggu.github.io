@@ -9,7 +9,7 @@ export default function Template({
     <div className="blog-post-container">
      <Helmet title={`Tianyang - ${post.frontmatter.title}`} />
       <div className="blog-post">
-        <h1>{post.frontmatter.title}</h1>
+        <h1 style={{padding:"10px 10px 20px"}}>{post.frontmatter.title}</h1>
         <div
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: post.html }}

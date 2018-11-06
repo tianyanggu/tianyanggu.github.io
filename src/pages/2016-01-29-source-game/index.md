@@ -1,7 +1,7 @@
 ---
 path: "/SourceGame"
-date: "2015-01-01T17:12:33.962Z"
-blogdate: "2018-11-01T17:12:33.962Z"
+date: "2016-01-29T17:12:33.962Z"
+blogdate: "2018-11-04T17:12:33.962Z"
 title: "Source"
 image: "/static/SourceGame.jpg"
 ---
@@ -10,7 +10,6 @@ image: "/static/SourceGame.jpg"
 
 Game Jam Vancouver 2016 - Source!
 
-**About:** 
 This was my second time at the Vancouver Game Jam. 
 Our team was able to make a very simple platformer game in the span of 48 hours.
 Most of the team's time was spent designing levels and creating custom 3D art assets for the environment and interactable objects.

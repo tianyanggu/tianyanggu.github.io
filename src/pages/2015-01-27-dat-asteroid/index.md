@@ -10,7 +10,6 @@ image: "/static/DatAsteroid.jpg"
 
 Game Jam Vancouver 2015 - Dat Asteroid!
 
-**About:** 
 In the span of 48 hours, our team made a 2 player game, where the objective was to shoot an asteroid to the opponent's goal.
 The game has spaceships that shoot lasers, an asteroid that interacted with all physical objects, and a fun soundtrack.
 We demoed the game at the end of the event and had a lot of fun playing it.

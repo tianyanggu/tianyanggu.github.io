@@ -8,8 +8,8 @@ image: "/static/BlankSpaceGames.jpg"
 
 ![](/static/BlankSpaceGames.jpg)
 
-Blank Space Games is a small mobile game development studio formed from a group of UBC students. 
-All of the games have been deployed to the Google Play Store.
+Blank Space Games is a small mobile game development studio formed by a group of UBC students. 
+All of the studio's games have been deployed to the Google Play Store.
 
 [Orange Cube](https://play.google.com/store/apps/details?id=ca.BlankSpace.OrangeCube) is a runner game, where you tap to change directions and try to keep on the ever changing pathway. 
 Turning perfectly increases your cube's size and awards bonus points.

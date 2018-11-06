@@ -27,7 +27,7 @@ class Message extends Component {
                     <div className="message-us-container">
                         <div className="message-us-body" onClick={this.handleClick}>
                             <div className="message-us-title">
-                                Contact Info<i className="message-icon far fa-window-maximize"></i>
+                                Contact Me<i className="message-icon far fa-window-maximize"></i>
                             </div>
                         </div>
                     </div>
@@ -43,9 +43,6 @@ class Message extends Component {
                             </div>
                         </div>
                         <div className="message-us-text">
-                            <div style={{ padding: "2px"}}>
-                                Messages are sent to <a href="mailto:tyler.y.gu@gmail.com" target="_top">tyler.y.gu@gmail.com</a>.
-                            </div>
                             <form action="https://www.enformed.io/zoiau2oo" method="POST" id="message">
                                 <div className="form-group">
                                     <label>Name: (Optional)</label>
@@ -53,7 +50,7 @@ class Message extends Component {
                                 </div>
                                 <div className="form-group">
                                     <label>Email: <span className="required-input">*</span></label>
-                                    <input name="email" type="email" className="form-control" required/>
+                                    <input name="email" type="email" className="form-control" placeholder="e.g. tyler.y.gu@gmail.com" required/>
                                 </div>
                                 <div className="form-group">
                                     <label>Message: <span className="required-input">*</span></label>

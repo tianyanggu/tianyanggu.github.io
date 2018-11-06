@@ -10,7 +10,6 @@ image: "/static/Strood.jpg"
 
 Strood! Street food!  
 
-**About:**  
 The Google Web Toolkit app that locates street food vendors around Vancouver. 
 Street food trucks are always moving around and it can be a hassle to find their location. 
 With Strood, users can find their closest street food vendor by sharing their location or locate the location of their favourite vendor.
