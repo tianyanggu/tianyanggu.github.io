@@ -16,7 +16,7 @@ export default function Index({ data }) {
             <div key={post.id}>
               <div className="w3-card-4 w3-margin w3-white blog-width">
                 <div className="header-image">
-                  <img src={post.frontmatter.image} />
+                <Link to={post.frontmatter.path}><img src={post.frontmatter.image}/></Link>
                 </div>
                 <div className="w3-container">
                   <h1>
