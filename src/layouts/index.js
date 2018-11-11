@@ -50,16 +50,7 @@ export default function TemplateWrapper ({location, children, data }) {
       ]}
     />
     <Header siteTitle={data.site.siteMetadata.title} />
-    <div
-      style={{
-        margin: "0 auto",
-        maxWidth: 960,
-        display: "flex",
-        flexDirection: "row",
-        justifyContent: "space-between",
-        height: "100%"
-      }}
-    >
+    <div>
       <Media query={{ maxWidth: 848 }}>
         {matches =>
           matches ? (
@@ -74,7 +65,8 @@ export default function TemplateWrapper ({location, children, data }) {
                 padding: "10px"
               }}
             >
-              <div style={{ flex: 1 }}>{children()}</div>
+            <div style={{overflow: "auto"}}>
+              {children()}</div>
             </div>
           ) : (
             <div
