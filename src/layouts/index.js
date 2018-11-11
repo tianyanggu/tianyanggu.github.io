@@ -88,7 +88,7 @@ export default function TemplateWrapper ({location, children, data }) {
                 padding: "10px"
               }}
             >
-              <div>
+              <div style={{overflow: "auto"}}>
                 {children()}
               </div>
             </div>
