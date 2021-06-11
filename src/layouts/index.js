@@ -5,7 +5,7 @@ import Helmet from 'react-helmet'
 import Media from 'react-media'
 
 import Header from '../components/header'
-import Message from '../components/messagebox'
+// import Message from '../components/messagebox'
 import './index.css'
 import '../styles/layout-override.css'
 
@@ -87,7 +87,7 @@ export default function TemplateWrapper ({location, children, data }) {
           )
         }
       </Media>
-      <Message location={fullUrl}></Message>
+      {/* <Message location={fullUrl}></Message> */}
     </div>
   </div>
 )};
